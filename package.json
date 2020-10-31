@@ -1,0 +1,8 @@
+{
+“name”: “InfoBot”,
+“version”: “0.1.2”,
+“description”: “Get info for your server!”,
+“main”: “bot.js”,
+“author”: “dk.raw#4482”,
+“dependencies”: {}
+}
